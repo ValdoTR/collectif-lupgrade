@@ -284,7 +284,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/www.linkedin.com\/company\/teletravelofficial\/"
                 }, 
@@ -312,7 +312,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/www.linkedin.com\/company\/upgrade-work"
                 }, 
