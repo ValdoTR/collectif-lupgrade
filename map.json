@@ -268,7 +268,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Ouvrir la page LinkedIn de TeleTravel"
+                         "value":"Ouvrir la page LinkedIn de Teletravel"
                         }],
                  "type":"tilelayer",
                  "visible":true,
