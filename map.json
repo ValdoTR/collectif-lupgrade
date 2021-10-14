@@ -258,7 +258,7 @@
                         {
                          "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/www.linkedin.com\/company\/teletravelofficial\/"
+                         "value":"https:\/\/myteletravel.com\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -268,7 +268,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Ouvrir la page LinkedIn de Teletravel"
+                         "value":"Ouvrir myteletravel.com"
                         }],
                  "type":"tilelayer",
                  "visible":true,
